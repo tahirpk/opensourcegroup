@@ -1,0 +1,6 @@
+#!/bin/bash          
+echo "Welcome to Git script to make your's life easier :)\n\n"
+git add .
+git commit --no-verify -am "$1"
+git push -u origin master
+echo "\n\your life has been made easy and this script has completed.\n\n"
