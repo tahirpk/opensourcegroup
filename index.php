@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 <?php
 /*======================================================================*\
 || #################################################################### ||
 || # vBulletin 4.2.0 Patch Level 3 - Licence Number VBS433AA8E
 || # ---------------------------------------------------------------- # ||
-|| # Copyright ©2000-2012 vBulletin Solutions Inc. All Rights Reserved. ||
+|| # Copyright ï¿½2000-2012 vBulletin Solutions Inc. All Rights Reserved. ||
 || # This file may not be redistributed in whole or significant part. # ||
 || # ---------------- VBULLETIN IS NOT FREE SOFTWARE ---------------- # ||
 || # http://www.vbulletin.com | http://www.vbulletin.com/license.html # ||
@@ -50,6 +50,3 @@ require('forum.php');
 || # CVS: $RCSfile$ - $Revision: 60724 $
 || ####################################################################
 \*======================================================================*/
-=======
-<?php echo "Hello world!"; ?>
->>>>>>> c0fb119a623ca9148906f734c0119e5826a87255
